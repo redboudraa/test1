@@ -3,3 +3,4 @@ git config --global user.email 'boudhraaalaa1@gmail.com'
 git commit -m 'first commit'
 git remote add origin https://github.com/redboudraa/test1.git
 git push -u origin master
+git rm --cached log.js
