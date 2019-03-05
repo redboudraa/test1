@@ -1,0 +1,3 @@
+git config --global user.name 'redboudraa'
+git config --global user.email 'boudhraaalaa1@gmail.com'
+git commit -m 'first commit'
